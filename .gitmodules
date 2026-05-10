@@ -2,3 +2,6 @@
 	path = external/anyode
 	url = https://github.com/bjodah/anyode
         branch = master
+[submodule "cython"]
+	path = cython
+	url = https://github.com/cython/cython
